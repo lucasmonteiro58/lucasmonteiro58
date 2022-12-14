@@ -6,7 +6,7 @@ I'm passionate about creating beautiful interfaces. ❤
 - ⚙️ Work Languages: HTML, CSS, Javascript (e.g. Vue.js)
 - 📚 Current Learning: Flutter, React Native, UX/UI.
 - 🏢 I'm currently working at [Lyncas](https://lyncas.net/).
-- 📁 My portifolio: [lucasmonteiro58.github.io/](https://lucasmonteiro58.github.io/)
+- 📁 My portifolio: [lucasmonteiro58.github.io](https://lucasmonteiro58.github.io/)
 
 <!---
 lucasmonteiro58/lucasmonteiro58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
