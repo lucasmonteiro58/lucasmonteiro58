@@ -3,9 +3,8 @@
 I'm Front-end develop, in Fortaleza - Brazil. 
 I'm passionate about creating beautiful interfaces. ❤
 
-- ⚙️ Work Languages: HTML, CSS, Javascript (e.g. Vue.js)
+- ⚙️ Work Languages: HTML, CSS, Javascript (e.g. Vue.js, React)
 - 📚 Current Learning: Flutter, React Native, UX/UI.
-- 🏢 I'm currently working at [CUCO Health](https://cucohealth.com/).
 - 📁 My portifolio: [lucasmonteiro.dev](https://lucasmonteiro.dev/)
 
 <!---
