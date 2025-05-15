@@ -1,8 +1,4 @@
-<h1 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+there!+I'm+Lucas+Monteiro+%F0%9F%91%8B)](https://git.io/typing-svg)
-  
-</h1>
+<h1 align="center">Hi there! I'm Lucas Monteiro 👋</h1>
 
 <p align="center">
   🚀 Front-end Developer from Fortaleza, Brazil 🇧🇷<br/>
